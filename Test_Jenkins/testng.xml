@@ -5,6 +5,8 @@
     <classes>
       <class name="com.test.Test_Jenkins.AppTest"/>
       <class name="com.test.Test_Jenkins.NewTest"/>
+      <class name="com.test.Test_Jenkins.ForthTest"/>
+      <class name="com.test.Test_Jenkins.TestGit"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

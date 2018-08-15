@@ -1,10 +1,13 @@
 package com.test.Test_Jenkins;
 
+import org.testng.annotations.Test;
+
 public class TestGit {
 
-	public static void main(String[] args) {
-
-		System.out.println("Git test");
+	@Test
+	  public void f() {
+		
+		System.out.println("third test");
 	}
 
 }
